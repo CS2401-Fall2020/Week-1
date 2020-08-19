@@ -23,6 +23,7 @@ Send a private message (in chat) to your instructor using MS Teams to say hello.
 * 10 points for accepting the assignment into your GitHub Account
 * 20 points for reposnding to the questionare
 * 10 points for connecting on Teams
+
 (note that while no points are given in this assignment for completing Task 2, there is a zyBook homework due this week)
 
 **Delete the text before this (and this line too)**

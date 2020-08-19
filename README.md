@@ -6,7 +6,7 @@ For this week's lab, we should all be getting familiar with how to submit our la
 ### Task 1
 Update this README file by deleteing all of the text above the line below that says "Delete the text before this (and this line too)" then use markdown to:
 * Add a 1st level header with your name before the question list
-* Add a 2nd level header with your UTEP ID before the question list
+* Add a 2nd level header with the name of the course
 * Answer the questions below by first making the question text bold, then adding your answer in non-bold text. 
 
 You can us the github markdown [formatting instructions](https://guides.github.com/features/mastering-markdown/) from thier website. 

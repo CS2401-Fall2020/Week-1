@@ -1,4 +1,4 @@
-# CS 2401 (DeBlasio) week 1 lab
+# CS 2401 week 1 lab
  
 For this week's lab, we should all be getting familiar with how to submit our lab assignments using GitHub. 
 

@@ -17,7 +17,7 @@ Note that this repo (like all of your github classroom assignments) is private a
 Sign up for the zyBook textbook (instructions are in the syllabus). 
 
 ### Task 3
-Send a private message (in chat) to your instructor using MS Teams to say hello. (approrpiate GIFs and/or emoji are welcome). 
+Send a private message (in chat) to your instructor using MS Teams to say hello. (approrpiate GIFs and/or emoji are welcome) as well as your github username and UTEP ID.
 
 ## Grading
 * 10 points for accepting the assignment into your GitHub Account

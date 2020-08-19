@@ -1,8 +1,10 @@
 # CS 2401 (DeBlasio) week 1 lab
  
 For this week's lab, we should all be getting familiar with how to submit our lab assignments using GitHub. 
-This week your task is to accept this assignment and update this README file. 
-You will update it by deleteing all of the text above the line below that says "Delete the text before this (and this line too)" then use markdown to:
+
+## Assignment
+### Task 1
+Update this README file by deleteing all of the text above the line below that says "Delete the text before this (and this line too)" then use markdown to:
 * Add a 1st level header with your name before the question list
 * Add a 2nd level header with your UTEP ID before the question list
 * Answer the questions below by first making the question text bold, then adding your answer in non-bold text. 
@@ -10,6 +12,18 @@ You will update it by deleteing all of the text above the line below that says "
 You can us the github markdown [formatting instructions](https://guides.github.com/features/mastering-markdown/) from thier website. 
 
 Note that this repo (like all of your github classroom assignments) is private and can only be read by the intructional staff). If you would prefer to email your responses make this document say only "I have emailed the assignment" and email your responses to the instructor and TA. 
+
+### Task 2
+Sign up for the zyBook textbook (instructions are in the syllabus). 
+
+### Task 3
+Send a private message (in chat) to your instructor using MS Teams to say hello. (approrpiate GIFs and/or emoji are welcome). 
+
+## Grading
+* 10 points for accepting the assignment into your GitHub Account
+* 20 points for reposnding to the questionare
+* 10 points for connecting on Teams
+(note that while no points are given in this assignment for completing Task 2, there is a zyBook homework due this week)
 
 **Delete the text before this (and this line too)**
 

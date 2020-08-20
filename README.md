@@ -19,6 +19,25 @@ Sign up for the zyBook textbook (instructions are in the syllabus).
 ### Task 3
 Send a private message (in chat) to your instructor using MS Teams to say hello. (approrpiate GIFs and/or emoji are welcome) as well as your github username and UTEP ID.
 
+### Task 4
+Modify the given java program `Week1.java` (found in the `src` folder) creates a string `s` which will be set to your name, then prints each character in the string on its own line.
+
+Example: name is `Dan DeBlasio` so the output will be 
+```
+D
+a
+n
+
+D
+e
+B
+l
+a
+s
+i
+o
+```
+
 ## Grading
 * 10 points for accepting the assignment into your GitHub Account
 * 20 points for reposnding to the questionare

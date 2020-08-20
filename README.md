@@ -42,6 +42,9 @@ o
 * 10 points for accepting the assignment into your GitHub Account
 * 20 points for reposnding to the questionare
 * 10 points for connecting on Teams
+* 20 points for completing `Week1.java`
+  * 5 points for setting `s` correctly
+  * 15 points for printing the output correctly
 
 (note that while no points are given in this assignment for completing Task 2, there is a zyBook homework due this week)
 
